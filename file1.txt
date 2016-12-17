@@ -4,4 +4,5 @@ f1 add second line
 f1 add third line
 fi add forth line
 f1 add fifth line in nBranch
+f1 add six line in testClone Repo.
 f1 add six line in lgit Repo.
