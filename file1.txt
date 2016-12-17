@@ -1,3 +1,5 @@
 f1 changed again
 f1 add first line
 f1 add second line
+f1 add third line
+fi add forth line
