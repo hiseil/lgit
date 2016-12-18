@@ -1,2 +1,1 @@
-f2 changed
-change again
+f2 clear
